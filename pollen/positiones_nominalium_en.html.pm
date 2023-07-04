@@ -25,5 +25,5 @@ These are our positions concerning universals.
 ◊item{And again that it is ◊uncertain{diminished}, because it did not thoroughly teach the art of dividing,}
 ◊item{and that all science is demonstrative, not topical ◊addition{(of the topics)}.}
 }
-
+◊p{For the first ◊addition{position}, the reason (◊original-latin{ratio}) is this: Every definitive phrase (◊original-latin{oratio}) is composed from names and verbs (which is manifest by induction); but a definition is an ◊original-latin{oratio} indicating what a being is (◊original-latin{quid est esse}); therefore an ◊original-latin{oratio} indicating what a being is is composed of names and verbs. But those from which a logical definition is composed are only ◊original-latin{genera} and ◊original-latin{differentiae}; therefore ◊original-latin{genera} and ◊original-latin{differentiae} are names and verbs.}
 }
