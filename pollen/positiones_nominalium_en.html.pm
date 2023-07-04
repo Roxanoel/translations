@@ -44,4 +44,7 @@ only ◊original-latin{genera} and ◊original-latin{differentiae}; therefore �
 
 ◊p{For the fourth, the reason is thus: If ◊addition{something} is moved, either it moves in time or in an instant; but there is no movement in time, because nothing happens to receive existence ◊original-latin{actualiter} in time except now; likewise, now (◊original-latin{in nunc}) ◊uncertain{it does not happen to be moved/ movement does not happen}, this is proved in the sixth ◊addition{book ◊uncertain{of the Physics}}; therefore, simply nothing happens to be moved.}
 
+◊p{Against this. In ◊addition{book} seven of the Physics, he ◊addition{(Aristotle)} says that nothing is moved by itself. In ◊addition{book} eight, he says that many are moved by themselves, including animals. }
+
+◊p{[End of the manuscript]}
 }
