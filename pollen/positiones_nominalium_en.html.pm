@@ -38,4 +38,5 @@ only ◊original-latin{genera} and ◊original-latin{differentiae}; therefore �
 
 ◊p{Against this. ◊uncertain{Augustine} says, in his Metaphysics, that a form ◊addition{which is} one in number cannot be in different subjects. In the third ◊addition{book} of the Physics it is said that motion, since it is one and indivisible, is in the agent and in the patient.}
 
+◊p{Towards the third ◊addition{position}, the reason is as follows: in the book On Generation, growth is described in this way, that growth is ◊uncertain{the addition of preexisting sizes (◊original-latin{praeexistentis magnitudinis}); but in no way composed of preexisting sizes, etc.; therefore, nothing grows in such a way. Proof of the middle by the division of ages in adolescence, youth, maturity and old age. For, in adolescence, by nature, ◊addition{one} receives more food than ◊addition{what} is excreted, in youth, the same amount, in maturity and old age, less; for this reason, something is never added to preexisting size; therefore no composed thing grows.}}
 }
