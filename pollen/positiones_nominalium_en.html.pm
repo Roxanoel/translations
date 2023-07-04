@@ -36,4 +36,6 @@ only ◊original-latin{genera} and ◊original-latin{differentiae}; therefore �
 
 ◊p{For the second ◊addition{position}. Every form is made one in number from a subject one in number in which it is; but every thing existing in the soul or in some particular is in a subject one in number; therefore every thing existing in a particular and in the soul is one in number; therefore, whether a universal is posited in the soul or outside, it will not exist in a particular, unless it is one in number.}
 
+◊p{Against this. ◊uncertain{Augustine} says, in his Metaphysics, that a form ◊addition{which is} one in number cannot be in different subjects. In the third ◊addition{book} of the Physics it is said that motion, since it is one and indivisible, is in the agent and in the patient.}
+
 }
