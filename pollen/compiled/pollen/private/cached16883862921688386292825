@@ -1,0 +1,1 @@
+((3) 0 () 1 ("\n") () (h - () (metas h - () (here-path . "/Users/roxanoel/repos/personal/translations/pollen/example.html.pm")) (doc c root c (q h2 "Pollen Markup") c (? . 0) c (? . 0) c (c ul c (q li (p "You " (strong "wanted") " it - you " (em "got") " it.")) c (? . 0) q (li (p (a ((href "https://google.com/search?q=racket")) "search for Racket")))))))
