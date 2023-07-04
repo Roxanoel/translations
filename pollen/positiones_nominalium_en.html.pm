@@ -42,4 +42,6 @@ only ◊original-latin{genera} and ◊original-latin{differentiae}; therefore �
 
 ◊p{Against this. In the book on Generation, it is said that change (◊original-latin{alteratio}) precedes generation, but in the eighth ◊addition{book} of the Physics it is said that generation ◊addition{is} change.}
 
+◊p{For the fourth, the reason is thus: If ◊addition{something} is moved, either it moves in time or in an instant; but there is no movement in time, because nothing happens to receive existence ◊original-latin{actualiter} in time except now; likewise, now (◊original-latin{in nunc}) ◊uncertain{it does not happen to be moved/ movement does not happen}, this is proved in the sixth ◊addition{book ◊uncertain{of the Physics}}; therefore, simply nothing happens to be moved.}
+
 }
