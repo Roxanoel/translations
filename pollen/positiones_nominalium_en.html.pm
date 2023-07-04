@@ -33,4 +33,7 @@ only ◊original-latin{genera} and ◊original-latin{differentiae}; therefore �
  are names and verbs.}
 
 ◊p{Against this. In the book On the Soul, it is said that a universal either is nothing, or is posterior. In the sixth ◊addition{book} of the Topics, it is said that ◊uncertain{◊original-latin{genus} and ◊original-latin{differentia} are defined by a prior nature/ are by nature prior to species.}}
+
+◊p{For the second ◊addition{position}. Every form is made one in number from a subject one in number in which it is; but every thing existing in the soul or in some particular is in a subject one in number; therefore every thing existing in a particular and in the soul is one in number; therefore, whether a universal is posited in the soul or outside, it will not exist in a particular, unless it is one in number.}
+
 }
