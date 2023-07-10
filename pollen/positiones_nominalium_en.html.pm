@@ -1,5 +1,5 @@
 #lang pollen
-◊headline{Positiones Nominalium}
+◊title{Positiones Nominalium}
 ◊language{English}
 ◊edition{CIMAGL 61 (1991), edited by Sten Ebbesen}
 ◊ms{Vat. lat. 7678: 88rA}

@@ -1,7 +1,7 @@
 #lang racket/base
 (require pollen/tag)
 (provide (all-defined-out))
-(define headline (default-tag-function 'h2))
+(define title (default-tag-function 'h2))
 (define language (default-tag-function 'span))
 (define edition (default-tag-function 'span))
 (define ms (default-tag-function 'span))
