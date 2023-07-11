@@ -1,6 +1,7 @@
 #lang racket/base
 (require pollen/tag)
 (provide (all-defined-out))
+(define info-container (default-tag-function 'div #:class "info-container"))
 (define title (default-tag-function 'h1))
 (define language (default-tag-function 'span))
 (define edition (default-tag-function 'span))
