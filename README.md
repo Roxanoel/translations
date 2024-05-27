@@ -4,10 +4,10 @@ The purpose of this repository is to publish in a centralized way all of the Lat
 ## Log
 
 ### To do
-+ Garlandus' Dialectica
-+ Summa Dialetice Artis
-+ Compendium Logicae Porretanum
-+ Positiones Nominalium
+[] Garlandus' Dialectica
+[] Summa Dialetice Artis
+[] Compendium Logicae Porretanum
+[x] Positiones Nominalium
 
 ### Published in this repository
 + None yet!
